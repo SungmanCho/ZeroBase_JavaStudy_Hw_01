@@ -4,6 +4,13 @@ import java.util.Scanner;
 public class JavaHw01_05 {
     public static void main(String[] args){
 
+        /*달력 출력 프로그램
+        *
+        * Developer : 조성만
+        *
+        * */
+
+
         System.out.println("[달력 출력 프로그램]");
         Scanner sc = new Scanner(System.in);
         System.out.print("달력의 년도를 입력해 주세요.(yyyy):");

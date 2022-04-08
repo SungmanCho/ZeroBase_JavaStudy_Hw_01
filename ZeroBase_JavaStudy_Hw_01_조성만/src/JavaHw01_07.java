@@ -3,6 +3,15 @@ import java.util.*;
 public class JavaHw01_07 {
     public static void main(String[] args) {
 
+        /*로또 당첨 문제
+        *
+        * Developer : 조성만
+        *
+        *
+        * */
+
+
+
         Scanner sc = new Scanner(System.in);
         int[] realLtArr = new int[6];
         int[] ltArr = new int[6];

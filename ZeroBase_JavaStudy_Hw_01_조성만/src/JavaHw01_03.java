@@ -3,6 +3,11 @@ import java.util.Scanner;
 public class JavaHw01_03 {
     public static void main(String[] args){
 
+        /*놀이공원 입장권 계산 문제
+        *
+        * Developer : 조성만
+        *
+        * */
         int pay = 10000;
 
         System.out.println("[입장권계산]");
