@@ -1,6 +1,11 @@
 public class JavaHw01_01 {
 
     public static void main(String[] args){
+        /*구구단 출력 문제
+        *
+        * Developer : 조성만
+        *
+        * */
 
         System.out.println("[구구단 출력]");
 

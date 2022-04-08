@@ -3,6 +3,12 @@ import java.util.Scanner;
 public class JavaHw01_02 {
     public static void main(String[] args){
 
+        /* 캐시백 계산 문제
+        *
+        * Developer : 조성만
+        *
+        * */
+
         System.out.println("[캐시백 계산]");
         Scanner sc = new Scanner(System.in);
         System.out.print("결제 금액을 입력해주세요.(금액):");

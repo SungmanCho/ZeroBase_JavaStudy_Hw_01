@@ -4,6 +4,17 @@ import java.util.Random;
 public class JavaHw01_04 {
     public static void main(String[] args){
 
+
+        /*주민번호 계산 문제
+        *
+        * Developer : 조성만
+        *
+        *
+        * */
+
+
+
+
         String gdChk ="";
 
         System.out.println("[주민등록번호 계산]");

@@ -4,6 +4,14 @@ public class JavaHw01_08 {
 
     public static void main(String[] args) {
 
+        /*과세금액 계산 문제
+        *
+        *
+        * Developer : 조성만
+        *
+        * */
+
+
         Scanner sc = new Scanner(System.in);
         System.out.println("[과세금액 계산 프로그램]");
         System.out.print("연소득을 입력해 주세요.:");

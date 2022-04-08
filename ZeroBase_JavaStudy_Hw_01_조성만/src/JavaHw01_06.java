@@ -5,6 +5,13 @@ import java.util.Random;
 public class JavaHw01_06 {
     public static void main(String[] args){
 
+        /*당선 확률 문제
+        *
+        * Developer : 조성만
+        *
+        * */
+
+
         int cnt = 0;
 
         HashMap<Integer,Integer> voteMap = new HashMap<>();
